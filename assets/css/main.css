@@ -2815,7 +2815,7 @@
 			.panel > *.color4 {
 				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
 				background-size: 128px 128px, auto;
-				background-color: #353865;
+				background-color: #c3b1bf;
 			}
 
 			.panel > *.color1-alt {
@@ -3266,7 +3266,7 @@
 			.panel.color4-alt {
 				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
 				background-size: 128px 128px, auto;
-				background-color: #323459;
+				background-color: #b3a9c1;
 			}
 
 	}
